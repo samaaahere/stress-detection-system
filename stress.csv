@@ -1,0 +1,11 @@
+sleep,screen,work,mood,activity,stress
+5,8,9,3,1,High
+6,7,8,4,2,High
+7,6,7,5,2,Medium
+8,4,6,6,3,Medium
+8,3,5,7,4,Low
+9,2,4,8,5,Low
+4,9,10,2,1,High
+6,6,7,5,2,Medium
+7,5,6,6,3,Medium
+9,3,4,9,5,Low
